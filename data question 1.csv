@@ -1,0 +1,33 @@
+Series Name,GDP per capita (constant 2015 US$),GDP per capita (constant 2015 US$),GDP per capita (constant 2015 US$),Exports of goods and services (% of GDP),Exports of goods and services (% of GDP),Exports of goods and services (% of GDP),Gross capital formation (% of GDP),Gross capital formation (% of GDP),Gross capital formation (% of GDP),,,
+Country Name,Australia,Viet Nam,India,Australia,Viet Nam,India,Australia,Viet Nam,India,,,
+Country Code,AUS,VNM,IND,AUS,VNM,IND,AUS,VNM,IND,,,
+1995 [YR1995],39310.8,927.63,620.7,17.87,32.81,10.84,25.99,27.14,29.15,,,
+1996 [YR1996],40337.11,998.92,654.36,18.89,40.87,10.39,24.79,28.1,22.76,,,
+1997 [YR1997],41464.5,1064.78,667.6,19.13,43.1,10.69,24.86,28.3,25.69,,,
+1998 [YR1998],42967.66,1110.11,695.29,19.56,44.85,11.02,25.64,29.05,24.98,,,"Data from Wold Bank Data viewer and accessed on January 25, 2025"
+1999 [YR1999],44636.94,1148.04,742.54,18.29,49.97,11.45,26.15,27.63,30.96,,,
+2000 [YR2000],45859.52,1212.2,756.7,19.39,53.92,13,26.25,29.61,25.68,,,"Variables used are GDP per Capita (Constant US $2015), Exports as % of GDP, and Gross capital formation (% of GDP)"
+2001 [YR2001],46191.31,1273.81,778.51,22.15,55.06,12.56,23.39,31.17,29.91,,,
+2002 [YR2002],47486.28,1340.52,793.62,20.73,54.74,14.26,24.41,33.22,30.25,,,Explanation of Variables:
+2003 [YR2003],48394.13,1418.74,841.28,19.06,56.67,14.95,25.94,35.44,30.84,,,GDP per capita is a good variable to analyze growth because it measures the average economic output per person in a country
+2004 [YR2004],49902.02,1510.94,892.6,17.16,59.73,17.86,27.06,35.47,35.1,,,
+2005 [YR2005],50853.2,1609.96,947.73,18.22,63.7,19.61,27.46,33.76,37.43,,,"
+Exports as a percentage of GDP are a good variable to explain growth because they measure the value of goods and services sold to other countries relative to the size of the economy."
+2006 [YR2006],51553.97,1699.68,1008.23,19.85,67.72,21.27,27.5,34.54,39,,,
+2007 [YR2007],52531.76,1788.95,1069.25,20.18,70.52,20.8,27.5,39.57,41.95,,,
+2008 [YR2008],53336.1,1856.01,1086.51,20.15,70.34,24.1,28.6,36.49,38.42,,,
+2009 [YR2009],53237.01,1927.13,1155.1,23.01,62.61,20.4,27.36,37.16,39.26,,,
+2010 [YR2010],53578.81,2027.58,1235.16,19.8,54.18,22.4,26.78,37.1,39.79,,,"Gross capital formation as a percentage of GDP is a good variable to explain growth because it measures the proportion of a country's economic output that is invested in capital goods, such as buildings, machinery, and infrastructure"
+2011 [YR2011],54111.36,2132.9,1281.61,21.44,61.18,24.54,26.46,32.37,39.59,,,
+2012 [YR2012],55257.57,2224.11,1333.1,21.49,63.47,24.53,27.72,30.56,38.35,,,
+2013 [YR2013],55728.02,2320.08,1399.45,19.98,66.8,25.43,27.87,30.21,34.02,,,
+2014 [YR2014],56327.85,2439.29,1484.32,21.09,69.6,22.97,26.73,30.29,34.27,,,
+2015 [YR2015],56739.03,2577.57,1584,20.07,72.92,19.81,26.27,32.11,32.12,,,
+2016 [YR2016],57401.07,2715.58,1694.47,19.28,74.11,19.16,25.45,31.72,30.17,,,
+2017 [YR2017],57750.65,2868.14,1788.7,21.26,81.76,18.79,24.18,32.31,30.98,,,
+2018 [YR2018],58530.78,3048.28,1883.36,21.89,84.42,19.93,24.65,32.02,32.34,,,
+2019 [YR2019],58924.73,3241.08,1936.03,24.16,85.16,18.66,23.39,31.98,30.1,,,
+2020 [YR2020],58132.8,3303.17,1806.5,24.03,84.38,18.68,22.43,31.92,28.92,,,
+2021 [YR2021],59276.5,3358.22,1965.31,22.06,93.85,21.4,22.94,32.9,32.12,,,
+2022 [YR2022],61009.81,3603.86,2086.08,25.53,93.81,23.2,23.77,32.57,33.02,,,
+2023 [YR2023],61583.92,3760.4,2236.31,26.8,87.18,21.85,23.97,31.96,33.32,,,
